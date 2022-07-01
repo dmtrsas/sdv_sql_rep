@@ -121,5 +121,3 @@ UPDATE SwimmingCompetitionsGroup2.People.Coach
 SET PassportNumber = REPLACE(PassportNumber,'.','')
 
 
---some comment
---and more
